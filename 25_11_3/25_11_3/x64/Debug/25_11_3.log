@@ -1,0 +1,7 @@
+﻿  test.c
+E:\C++\25_11_3\test.c(3,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      E:\C++\25_11_3\test.c(2,9):
+      参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  
+E:\C++\25_11_3\test.c(205,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  25_11_3.vcxproj -> E:\C++\25_11_3\x64\Debug\25_11_3.exe
